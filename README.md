@@ -1,6 +1,8 @@
 # Toxic_comment_classification
 ## Classification of toxic comments
 
+**Disclaimer : Please keep in mind that the comments mind be really racist and toxic. But it's strictly used for the purpose of academic studies and comparison.**
+
 ## Abstract:
 
 NLP at its core deals with classification of text, which entails training a model to
@@ -28,3 +30,12 @@ At the end of the experiments, we were able to find quantitative results support
 Neural Network Model performed better in terms of F1-Score than machine learning models (
 Naive Bayes and Logistic Regression) for both known and unknown datasets and that TFIDF
 performs better than Word2Vec, at least when the training corpus size is ~140,000.
+
+Test results :
+
+![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/results.PNG)
+![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/results2.PNG)
+
+The architecture of the flask application built : 
+
+![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/application.PNG)
