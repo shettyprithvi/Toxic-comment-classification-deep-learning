@@ -1,7 +1,13 @@
-# Toxic comment classification using deep learning vs machine learning
+# Toxic comment classifier app using deep learning and machine learning
 ## Classification of toxic comments
 
 **Disclaimer : Please keep in mind that the comments might be really racist and toxic. But it's strictly used for the purpose of academic studies and comparison.**
+
+
+The architecture of the flask application built : 
+
+![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/application.PNG)
+
 
 ## Abstract:
 
@@ -230,6 +236,3 @@ Test results :
 ![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/results.PNG)
 ![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/results2.PNG)
 
-The architecture of the flask application built : 
-
-![alt text](https://github.com/shettyprithvi/Toxic_comment_classification/blob/master/application.PNG)
