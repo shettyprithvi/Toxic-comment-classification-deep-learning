@@ -14,7 +14,7 @@ The architecture of the flask application built :
 NLP at its core deals with classification of text, which entails training a model to
 understand the pattern of a corpus of text and compare it or distinguish it with a set of known
 categories. The pattern of text is the vector representation of the document/corpus, which is
-used by the designated classification technique. There are many ways to classify textual data
+used by the designated classification techniques. There are many ways to classify textual data
 into predefined categories but the accuracy of classification can vary based on the vectorization
 technique, classification technique, length of the corpus and the source of text etc. Our goal
 through this project was to compare the performance of the models in terms of F1-Score,
